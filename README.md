@@ -78,7 +78,7 @@ A comprehensive, feature-rich travel planning application built with React.js th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Prachi9506/Wandovia
+   git clone https://github.com/Moh1030/Wandovia
    cd Wandovia
    ```
 
